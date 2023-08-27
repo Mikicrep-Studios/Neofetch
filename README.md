@@ -14,6 +14,11 @@ Note: You can also run `make uninstall`
 - `ID=mikicrep`
 - `ID_LIKE=mikicrep`
 - `LOGO=mikicrep-os`
+Note: If your OS also has `/etc/lsb-release`, change that:
+- `DISTRIB_ID="Mikicrep"`
+- `DISTRIB_DESCRIPTION="Mikicrep OS"`
+Note2: Probably not all names will not be same, do not touch name, just value
+
 Note: This should not change system functionality
 
 Original: https://github.com/dylanaraps/neofetch
