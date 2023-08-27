@@ -1,4 +1,4 @@
-# Minimal version of neofetch just for Mikicrep OS
+# Neofetch with Mikicrep OS support
 
 ## Install from source:
 1. `git clone https://github.com/Mikicrep-Studios/Neofetch`
