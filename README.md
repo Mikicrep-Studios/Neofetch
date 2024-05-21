@@ -20,5 +20,6 @@ Note: If your OS also has `/etc/lsb-release`, change that:
 Note2: Probably not all names will not be same, do not touch name, just value
 
 Note: This should not change system functionality
+Note2: If you want to use fetchcord with it, please use "old" branch
 
 Original: https://github.com/dylanaraps/neofetch
