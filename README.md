@@ -22,4 +22,6 @@ Modified neofetch code for Mikicrep OS, will probably work on other distos but i
 `DISTRIB_ID="Mikicrep"`
 `DISTRIB_DESCRIPTION="Mikicrep OS"`
 
+Note: Use "old" branch for fetchcord support
+
 Original: https://github.com/dylanaraps/neofetch
